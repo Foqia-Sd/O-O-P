@@ -1,4 +1,5 @@
-Panaversity Object-Oriented Programming (OOP) in Python
+# Panaversity Object-Oriented Programming (OOP) in Python
+
 This project explains the basics of Object-Oriented Programming (OOP) in Python with simple examples, notes, and beginner-friendly code.
 It is perfect for those who are just starting to learn how to structure their Python code using classes, constructors, and methods.
 
